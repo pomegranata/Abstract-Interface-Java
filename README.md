@@ -1,1 +1,3 @@
-# Java
+# Java Abstract Class and Interface - Furniture Example
+
+Welcome to this Java repository, which focuses on the use of abstract classes and interfaces with a furniture example. This project includes various types of furniture such as general furniture, wardrobes (Almari), dining wardrobes (Almari Makan), clothing wardrobes (Almari Pakaian), tables (Meja), dining tables (Meja Makan), guest tables (Meja Tamu), and discounts.
