@@ -17,8 +17,8 @@ Welcome to this Java repository, which focuses on the use of abstract classes an
 This project is designed to demonstrate the use of abstract classes and interfaces in the Java programming language. By using these concepts, we can create a more structured and flexible class hierarchy for various types of furniture.
 
 ├── src
-│   ├── controller
-│   │   ├── **/*.css
+│   ├── main
+│   │   ├── java
 │   ├── views
 │   ├── model
 │   ├── index.js
