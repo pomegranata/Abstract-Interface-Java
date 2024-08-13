@@ -28,32 +28,65 @@ This project is designed to demonstrate the use of abstract classes and interfac
 
 ## Project Structure
 
-├───src
-│   └───main
-│       └───java
-│           └───furniture
-|
-|
-└───target
-    ├───classes
-    │   └───furniture
-    ├───generated-sources
-    │   └───annotations
-    ├───maven-archiver
-    ├───maven-status
-    │   └───maven-compiler-plugin
-    │       └───compile
-    │           └───default-compile
-    └───test-classes
+src/
+├─ main/
+│  ├─ java/
+│  │  ├─ furniture/
+│  │  │  ├─ Almari.java
+│  │  │  ├─ AlmariMakan.java
+│  │  │  ├─ AlmariPakaian.java
+│  │  │  ├─ Discountable.java
+│  │  │  ├─ Mebel.java
+│  │  │  ├─ Meja.java
+│  │  │  ├─ MejaMakan.java
+│  │  │  ├─ MejaTamu.java
+│  │  │  ├─ Run.java
+├─ target/
+│  ├─ classes/
+│  │  ├─ furniture/
+│  ├─ generated-sources/
+│  │  ├─ annotations/
+│  ├─ maven-archiver/
+│  ├─ maven-status/
+│  │  ├─ maven-compiler-plugin/
+│  │  │  ├─ compile/
+│  │  │  │  ├─ default-compile/
+│  ├─ test-classes/
 
 ## Installation
 
 To set up this project locally, follow these steps:
 
-### 1. Clone the repository:
+#### 1. Clone the repository:
 ```
 git clone https://github.com/username/java-furniture.git
 cd java-furniture
 ```
 
-### 2. Open the project in your favorite IDE (e.g., IntelliJ IDEA, NetBeans, or Eclipse)
+#### 2. Open the project in your favorite IDE (e.g., IntelliJ IDEA, NetBeans, or Eclipse)
+
+#### 3. Build the project:
+If using Maven:
+```
+mvn clean install
+```
+
+## Usage
+To run this project, simply run the Run.java class located in:
+```
+src\main\java\furniture
+```
+
+## Contributing
+
+I welcome contributions to improve this project. Please follow these steps to contribute:
+
+1. Fork the repository.
+
+2. Create a new branch: ``` git checkout -b feature-name ```
+
+3. Commit your changes: ``` git commit -m 'Add some feature' ```
+
+4. Push to the branch: ``` git push origin feature-name ```
+
+5. Submit a pull request.
