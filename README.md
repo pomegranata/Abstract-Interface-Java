@@ -4,13 +4,11 @@ Welcome to this Java repository, which focuses on the use of abstract classes an
 
 ## Table of Contents
 * [Project Overview](#project-overview)
-* [Features]()
-* [Project Structure]()
-* [Installation]()
-* [Usage]()
-* [Contributing]()
-* [License]()
-* [Contact]()
+* [Features](#features)
+* [Project Structure](#project-structure)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
 
 ## Project Overview
 
